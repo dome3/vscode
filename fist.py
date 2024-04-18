@@ -5,5 +5,5 @@ import os
 msg = 'hello world c1 c3'
 print(msg)
 
-change 1
+change local 1 2
 change_at_github 2
