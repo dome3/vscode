@@ -9,3 +9,7 @@ change local 1 2 33
 change_at_github 2 3 4 5 6
 
 Branch out 1
+
+branch b2 1 2
+
+branch b1 1
