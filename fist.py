@@ -8,4 +8,4 @@ print(msg)
 change local 1 2 33
 change_at_github 2 3 4 5 6
 
-branch b2 1
+branch b2 1 2
