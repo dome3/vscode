@@ -5,7 +5,7 @@ import os
 msg = 'hello world c1 c3'
 print(msg)
 
-master 1 
+master 1 2
 
 change local 1 2 33
 change_at_github 2 3 4 5 6
