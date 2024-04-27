@@ -16,4 +16,4 @@ branch b2 1 2
 
 branch b1 1 2 3
 
-branch b3 1
+branch b3 1 2
