@@ -12,7 +12,7 @@ change_at_github 2 3 4 5 6
 
 Branch out 1
 
-branch b2 1 2 3 4 5 6
+branch b2 1 2 3 4 5 6 7
 
 branch b1 1 2 3
 
