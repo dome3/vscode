@@ -17,3 +17,5 @@ branch b2 1 2 3 4 5 6 7
 branch b1 1 2 3
 
 branch b3 1
+
+new-master 
