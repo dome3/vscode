@@ -20,4 +20,4 @@ branch b3 1
 
 master 1
 
-new 1
+new 1 2
