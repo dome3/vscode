@@ -1,8 +1,7 @@
 # comment ver 1
 import os
-new one two
-
-master 1
+new 1 2
+nn 1
 
 #2nd comment
 msg = 'hello world c1 c3'
